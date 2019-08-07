@@ -22,5 +22,5 @@ tyler.logs.roku.com
 victoria.logs.roku.comw
 atson.telemetry.microsoft.com
 windsor.logs.roku.com
-services.roku.comc
+services.roku.com
 cloudservices.roku.com
