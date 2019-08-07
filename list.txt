@@ -24,4 +24,4 @@ atson.telemetry.microsoft.com
 windsor.logs.roku.com
 facebook.com
 google.com
-googlevideo.com
+(^|\.)googlevideo\.com$
