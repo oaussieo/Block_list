@@ -1,6 +1,6 @@
 # Block_list
 
-Advertisers block list
+# Advertisers block list
 176.103.130.130
 176.103.130.131
 7cb77.v.fwmrm.net
