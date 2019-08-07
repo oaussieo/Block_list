@@ -22,3 +22,6 @@ tyler.logs.roku.com
 victoria.logs.roku.comw
 atson.telemetry.microsoft.com
 windsor.logs.roku.com
+facebook.com
+google.com
+googlevideo.com
