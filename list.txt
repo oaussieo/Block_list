@@ -24,4 +24,4 @@ atson.telemetry.microsoft.com
 windsor.logs.roku.com
 facebook.com
 google.com
-(^|\.)googlevideo\.com$
+127.0.0.1 googlevideo.com
