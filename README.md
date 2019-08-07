@@ -14,7 +14,8 @@ liberty.logs.roku.com
 littlefield.logs.roku.com
 nqs.nice264.com
 paolo.logs.roku.com
-scribe.logs.roku.comsettings-win.data.microsoft.com
+scribe.logs.roku.com
+settings-win.data.microsoft.com
 sugarland.logs.roku.com
 t.pluto.tv
 telemetry.microsoft.com
