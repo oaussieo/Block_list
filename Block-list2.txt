@@ -1,5 +1,3 @@
-#Block  list contain following sites
-
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/mmotti/mmotti-host-file/master/hosts
