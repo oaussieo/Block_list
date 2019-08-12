@@ -10,9 +10,10 @@ cooper.logs.roku.com
 giga.logs.roku.com
 griffin.logs.roku.com
 jelly.mdhv.io
+t.pluto.tv 
 k.pluto.tv
-liberty.logs.roku.co
-mlittlefield.logs.roku.com
+liberty.logs.roku.com
+littlefield.logs.roku.com
 nqs.nice264.com
 paolo.logs.roku.com
 r1---sn-nx5s7n7z.googlevideo.com
