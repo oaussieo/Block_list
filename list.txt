@@ -16,8 +16,6 @@ liberty.logs.roku.com
 littlefield.logs.roku.com
 nqs.nice264.com
 paolo.logs.roku.com
-r1---sn-nx5s7n7z.googlevideo.com
-r2---sn-nx5e6ne6.googlevideo.com
 scribe.logs.roku.com
 services.roku.com
 settings-win.data.microsoft.com
