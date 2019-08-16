@@ -24,4 +24,4 @@ telemetry.urs.microsoft.com
 tyler.logs.roku.com
 victoria.logs.roku.com
 wwindsor.logs.roku.com
-172.217.14.206 manifest.googlevideo.com
+# 172.217.14.206 manifest.googlevideo.com
