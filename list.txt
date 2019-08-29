@@ -1,7 +1,6 @@
 7cb77.v.fwmrm.net
 atson.telemetry.microsoft.com
 austin.logs.roku.com
-clients1.google.com
 cloudservices.roku.com
 configsvc.cs.roku.com
 cooper.logs.roku.com
