@@ -1,13 +1,3 @@
-7cb77.v.fwmrm.net
-jelly.mdhv.io
-t.pluto.tv 
-k.pluto.tv
-nqs.nice264.com
-t.pluto.tvtelemetry.microsoft.com
-telemetry.microsoft.com.nsatc.net
-telemetry.urs.microsoft.com
-atson.telemetry.microsoft.com
-settings-win.data.microsoft.com
 
 liberty.logs.roku.com
 littlefield.logs.roku.com
