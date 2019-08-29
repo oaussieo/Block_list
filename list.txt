@@ -22,3 +22,8 @@ nqs.nice264.com
 t.pluto.tvtelemetry.microsoft.com
 t.pluto.tv 
 k.pluto.tv
+
+telemetry.microsoft.com.nsatc.net
+telemetry.urs.microsoft.com
+atson.telemetry.microsoft.com
+settings-win.data.microsoft.com
